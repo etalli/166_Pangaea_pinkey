@@ -1,0 +1,5 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"D13, D14, D17, D18, D33, D34, D37, D38",diode_TH_SMD_rev3,8,D,
+"H10, H11, H12, H9",M2_Nut_Hole_rev2,4,MountingHole,
+"J8, J9",JST_SH_BM03B-SRSS-TB_1x04-1MP_P1.00mm_Vertical,2,Conn_01x04,
+"SW13, SW14, SW17, SW18, SW33, SW34, SW37, SW38",CherryMX_Choc_Hotswap_rev9_test,8,SW_Push,
