@@ -6,6 +6,10 @@ This is the physical layout used on many keyboards.  The 0.5u lower version is a
 
 Compatible with Cherry MX and Choc switches as well as standard parts.
 
+# note
+
+You can use the same top plate as the Same-special, which is not included here. It is included in Pangaea's standard package, so please use that.
+
 
 # history
 
